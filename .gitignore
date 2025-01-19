@@ -1,0 +1,8 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar a pasta screenshots (usada por ferramentas de teste como Cypress)
+screenshots/
+
+# Ignorar a pasta videos (usada por ferramentas de teste como Cypress)
+videos/
